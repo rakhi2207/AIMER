@@ -1,0 +1,56 @@
+.cssCheck
+{
+    width: 300px;
+}
+
+.titlecss
+{
+    margin-top: 5%;
+}
+@media only screen and (max-width:1086px){
+    .cssCheck
+    {
+        width: 200px;
+    }
+}
+
+@media only screen and (max-width:648px){
+    .cssCheck
+    {
+        width: 150px;
+        height: 85px;
+    }
+    .cssCheck img{
+        width:40px;
+        height: 40px;
+    };
+    .cssCheck h5{
+        font-size: 5px;
+    }
+
+}
+
+
+@media only screen and (max-width:498px){
+    .cssCheck
+    {
+        width: 130px;
+    }
+    .cssCheck img{
+        width:30px;
+    };
+
+}
+
+
+@media only screen and (max-width:437px){
+    .cssCheck
+    {
+        width: 240px;
+        margin: 20px;
+    }
+    .cssCheck img{
+        width:60px;
+    };
+
+}

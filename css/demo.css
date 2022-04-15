@@ -1,0 +1,86 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}  
+.mycolor{
+    background-color: #454d54;
+    
+  }
+  .form-control-primary {
+    margin: 10px;
+    opacity: 0.2;
+    border-radius: 2px;
+  }
+  .sidebar {
+    position:fixed;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    z-index: 100;
+    padding: 70px 0 0 10px;
+    border-right: 1px solid #d3d3d3;
+  }
+  
+  .left-sidebar {
+    position: sticky;
+    top:0;
+    height: calc(100vh - 70px)
+  }
+  
+  .sidebar-nav li .nav-link {
+    color: #333;
+    font-weight: 500;
+  }
+  main {
+    padding-top: 90px;
+  }
+  .card1{
+    margin-left: 20%;
+    margin-top: 30px;
+    margin-right: 10%;
+    padding: 10px;
+    box-shadow: 0px 0px 10px grey;
+  }
+  .heading{
+    font-weight: bold;
+    font-size: 20px;
+  }
+  .card4{
+    margin-bottom: 30px;
+  }
+  .icon{
+    margin-top: 10%;
+    margin-left: 15%;
+    /* border-radius: 50%;
+    width:60px; */
+  }
+  .side-menu-text1{
+    margin-top: 30px;
+    margin-left: 20px;
+    font-size:xx-large;
+    font-weight: bold;
+  }
+  .side-menu-text2{
+    margin-left: 20px;
+  }
+  hr{
+    border: 1px solid black;
+    margin-right: 10px;
+  }
+  .heading2{
+    margin-top: 30px;
+    margin-left: 20px;
+    font-weight: bolder;
+  }
+  main {
+    padding-top: 90px;
+  }
+  .behind-color{
+    background-color: #e9e6e6;
+  }
+.hidechecker
+{
+    background-color: black;
+    height: 20%;
+}

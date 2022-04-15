@@ -1,0 +1,43 @@
+.mid
+{
+    height: 550px;
+   background-image:url(../Images/i1.jpg);
+   background-size: cover;
+   background-position: center;
+}
+
+.insideForm
+{
+    border: 1px solid black;
+    width: 70%;
+    margin-left: 20%;
+    background-color: white;
+    border-radius: 16%;
+}
+
+.inputGroup
+{
+    border: 2px solid rgb(148, 148, 148,0.2);
+    border-radius: 5px;
+    padding: 10px;
+    margin: 6px;
+}
+
+@media only screen and (max-width: 580px) and (max-width: 581px)
+{
+        .inputGroup
+    {
+        border: 2px solid rgb(148, 148, 148,0.2);
+        border-radius: 5px;
+        padding: 5px;
+        margin: 5px;
+    }
+
+    .mid
+    {
+        height: 700px;
+        background-image:url(../Images/i1.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+}
